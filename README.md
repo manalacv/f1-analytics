@@ -1,2 +1,2 @@
-# f1-analytics
-End-to-end data pipeline for Formula 1 race analytics using Python, Snowflake, dbt, Airflow, and AWS. 
+# F1 Analytics\n\n
+Data engineering portfolio project. Modern data stack: Python, SQL, dbt, Snowflake, Airflow, AWS, Power BI. In progress.
